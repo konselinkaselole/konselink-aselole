@@ -11,4 +11,4 @@ Aplikasi atau sistem untuk membantu pengguna dalam melakukan konsultasi secara o
 ## Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/konsultasikaseloIe/konsultasi-aselole.git
+   git clone https://github.com/konsultasikaselole/konsultasi-aselole.git
